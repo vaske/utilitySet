@@ -1,0 +1,23 @@
+{
+    "name": "utilitySet",
+    "version": "1.0",
+    "title": "utilitySet",
+    "description": "A bunch of utility functions for own purpose",
+    "author": {
+        "name": "Milan vasic",
+        "url": "http://www.milanvasic.com/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": ""
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.4"
+    },
+    "main": "jquery.utilitySet.js",
+    "ignore": [
+        "package.json"
+    ]
+}
